@@ -1,0 +1,2 @@
+rootProject.name='CodeLab02.1_TwoActivities'
+include ':app'
